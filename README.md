@@ -1,6 +1,8 @@
-# Linux.Wifatch source repository
+# Linux.Wifatch source repository clone
+Orginial project at https://gitlab.com/rav7teif/linux.wifatch
+Cloning for posterity...or whatever.
 
-This is official Linux.Wifatch sources
+This is ~~official~~ a clone of the Linux.Wifatch sources
 
 This repository contain all local components (missing files are
 unintentional and/or will be added later), additional C source code not
